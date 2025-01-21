@@ -356,7 +356,7 @@ function isBookByAuthorAvailable(){ rl.question("Enter the author name to search
 
 // Main function
 function main() {
-    console.log("<------  Welcome to Thinkbix Library Management System ----->\n");
+    console.log("<------  Welcome to Thinkbiz Library Management System ----->\n");
     console.log("1. Add User");
     console.log("2. Add Book in library");
     console.log("3. Show Books");
